@@ -11,7 +11,7 @@ namespace Atividade_03
         static void Main(string[] args)
         {
             Console.WriteLine("Atividade 03");
-            Console.WriteLine("---------------");
+            Console.WriteLine("========================");
         }
     }
 }
